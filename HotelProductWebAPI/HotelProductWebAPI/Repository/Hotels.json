@@ -1,0 +1,57 @@
+﻿[
+
+  {
+    "HotelId": 1,
+    "HotelDescription": "This polished hotel is 1.4 km from Aga Khan Palace and 6 km from Pune Airport.Featuring Wi-Fi and flat-screen TVs, the upscale rooms have minibars, and tea and coffeemakers, along with safes, sofabeds and desks; some have glass-enclosed bathrooms. Upgraded rooms provide free airport shuttle service, plus access to a lounge offering complimentary breakfast and evening cocktails. Suites add separate living rooms. Room service is 24/7.",
+    "HotelContactNumber": " 020 6705 6000",
+    "HotelAmenities": [ "Free Wi-Fi" , "Breakfast" , "Swimming Pool" , "Gym" , "Bar" , "Spa" ,  "Laundry service"],
+    "HotelPolicy": "http://novotel.com/privacy.html",
+    "HotelImageURL": [
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image2",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image3"
+    ]
+  },
+
+  {
+
+    "HotelId": 2,
+    "HotelDescription": "This upscale hotel is a 4-minute walk from the nearest bus stop, 1.5 km from Aga Khan Palace and 8 km from the fortress of Shaniwar Wada. The modern rooms feature flat-screen TVs, iPod docks and minibars, plus tea and coffeemaking facilities; some also include free Wi-Fi. Suites add balconies with city views, as well as sitting areas, dining tables and access to a private lounge. There's 24-hour room service.",
+    "HotelContactNumber": " 020 6645 1234",
+    "HotelAmenities": [ "Free Wi-Fi" , "Breakfast" , "Swimming Pool" , "Gym" , "Bar" , "Spa" , "Disco" , "Room service" ],
+    "HotelPolicy": "http://Hyatt.com/privacy.html",
+    "HotelImageURL": [
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image2",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image3"
+    ]
+
+  },
+
+  {
+
+    "HotelId": 3,
+    "HotelDescription": "This informal hotel surrounded by business parks is 2 km from both Pune International Airport and the 19th-century Aga Khan Palace, where Gandhi was imprisoned. Understated, warmly decorated rooms come with free Wi-Fi, flat-screen TVs and minibars, plus tea and coffeemaking facilities. Suites add living rooms. Room service is available 24/7.",
+    "HotelContactNumber": "020 6622 2100",
+    "HotelAmenities": [ "Free Wi-Fi" , "Breakfast" , "Swimming Pool" , "Airport shuttle" ,  "Smoke-free" ],
+    "HotelPolicy": "http://Fidalgo.com/privacy.html",
+    "HotelImageURL": [
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image2",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image3"
+    ]
+  },
+  {
+
+    "HotelId": 4,
+    "HotelDescription": "Along the NH3 and surrounded by a green lawn, this unassuming hotel is 2 km from the Keshav Rai Temple, 7 km from the Bajwara Fort and 5 km from Hoshiarpur train station. Featuring dark wood floors and furnishings, the down-to-earth rooms come with flat-screen TVs",
+    "HotelContactNumber": " 082880 06795",
+    "HotelAmenities": [ "Free Wi-Fi" , "Breakfast" , "Swimming Pool" , "Gym" , "Bar" , "Spa" , "Child friendly" ,  "Pet-friendly" ],
+    "HotelPolicy": "http://AmberRegency.com/privacy.html",
+    "HotelImageURL": [
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image2",
+      "https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image3"
+    ]
+  }
+]
