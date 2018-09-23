@@ -1,0 +1,17 @@
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\obj\Debug\HotelWCFService.csprojAssemblyReference.cache
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\obj\Debug\HotelWCFService.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\HotelWCFService.dll.config
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\HotelWCFService.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\HotelWCFService.pdb
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Cassandra.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\LZ4.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Cassandra.xml
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\obj\Debug\HotelWCFService.csproj.CopyComplete
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\obj\Debug\HotelWCFService.dll
+C:\Users\ssrivastava\source\repos\HotelWCFService\HotelWCFService\obj\Debug\HotelWCFService.pdb
