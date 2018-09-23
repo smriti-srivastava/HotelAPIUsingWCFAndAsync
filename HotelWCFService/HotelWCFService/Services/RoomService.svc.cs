@@ -28,7 +28,7 @@ namespace HotelWCFService.Services
             RoomRepository repository = new RoomRepository();
             Room room = repository.GetRoomsByTypeAndHotel(int.Parse(hotelId), roomType);
             if (room == null) return "Invalid RoomType Or Hotel";
-            if (room.Availability > int.Parse(numberOfRoomsToBeBooked))
+            if (room.Availability >= int.Parse(numberOfRoomsToBeBooked))
             {
                 room.Availability -= int.Parse(numberOfRoomsToBeBooked);
                 repository.UpdateRoomAvailability(room);
